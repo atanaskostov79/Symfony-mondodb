@@ -1,0 +1,5 @@
+composer create-project symfony/framework-standard-edition your_project_name
+
+composer require alcaeus/mongo-php-adapter
+
+composer require doctrine/mongodb-odm-bundle
